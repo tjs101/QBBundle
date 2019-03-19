@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  QBBundle
+
+  Created by quentin on 2019/3/18.
+  Copyright © 2019 Quentin. All rights reserved.
+*/
+
+"Update" = "更新";
+"App Update" = "アプリ更新";
+"Cancel" = "取り消し";
+"Friendly reminder" = "フレンドリーなお知らせ";
+"You have not configured your email account yet, do you want to jump to the configuration now?" = "メールアカウントをまだ設定していません。今すぐ設定にジャンプしますか？";
+"OK" = "OK";
+"Prompt" = "プロンプト";
+"To view" = "見るには";
+"The mailbox is not configured, please go to set the email account!" = "メールボックスが設定されていません。メールアカウントを設定してください。";
+"[Feedback]" = "[フィードバック]";
+"The following information is in order to better optimize the product" = "以下の情報は、製品をより最適化するためのものです。";
+"Model" = "モデル";
+"System Version" = "システムバージョン";
+"Cancel sending mail" = "メール送信をキャンセル";
+"Save mail successfully" = "メールを保存する";
+"Successfully sent" = "正常に送信されました";
+"Send failed" = "送信失敗";
+"Microphone is not authorized, turn on microphone to authorize speech recognition" = "マイクが承認されていません。マイクをオンにして音声認識を承認します";
+"Settings" = "設定";

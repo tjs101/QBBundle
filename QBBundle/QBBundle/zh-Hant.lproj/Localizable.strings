@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  QBBundle
+
+  Created by quentin on 2019/3/18.
+  Copyright © 2019 Quentin. All rights reserved.
+*/
+
+"Update" = "更新";
+"App Update" = "應用更新";
+"Cancel" = "取消";
+"Friendly reminder" = "友情提示";
+"You have not configured your email account yet, do you want to jump to the configuration now?" = "您還未配置郵箱賬戶，是否現在跳轉配置？";
+"OK" = "確定";
+"Prompt" = "提示";
+"To view" = "查看";
+"The mailbox is not configured, please go to set the email account!" = "郵箱未配置，請去設置郵箱賬號!";
+"[Feedback]" = "【問題反饋】";
+"The following information is in order to better optimize the product" = "以下信息為了更好的優化產品";
+"Model" = "類型";
+"System Version" = "系統版本";
+"Cancel sending mail" = "取消發送郵件";
+"Save mail successfully" = "保存郵件成功";
+"Successfully sent" = "發送成功";
+"Send failed" = "發送失敗";
+"Microphone is not authorized, turn on microphone to authorize speech recognition" = "麥克風未授權，打開麥克風授權進行語音識別";
+"Settings" = "設置";
