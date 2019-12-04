@@ -24,3 +24,23 @@
 "Send failed" = "发送失败";
 "Microphone is not authorized, turn on microphone to authorize speech recognition" = "麦克风未授权，打开麦克风授权进行语音识别";
 "Settings" = "设置";
+
+
+"Skip 4s" = "跳过 4s";
+"Skip %@s" = "跳过 %@s";
+
+"No in app payment allowed" = "不允许App内付费";
+"Resume purchase..." = "恢复购买...";
+"Payment in..." = "支付中...";
+"Failed to get purchase information" = "获取购买信息失败";
+"This item has not been purchased" = "未曾购买过此项目";
+"Can not pay" = "不能支付";
+"Request was aborted" = "请求失败";
+"Validating order..." = "正在验证订单...";
+"An unknown error has occurred!" = "发生未知错误!";
+"Purchase failure" = "购买失败";
+"Cancel purchase" = "取消购买";
+"Purchase succeeded" = "购买成功";
+"Exchange code verification in progress..." = "兑换码验证中...";
+"Exchange succeeded" = "兑换成功";
+"The exchange code is wrong. Please re-enter it" = "兑换码不对，请重新输入";

@@ -25,3 +25,23 @@
 "Send failed" = "送信失敗";
 "Microphone is not authorized, turn on microphone to authorize speech recognition" = "マイクが承認されていません。マイクをオンにして音声認識を承認します";
 "Settings" = "設定";
+
+
+"Skip 4s" = "スキップ 4s";
+"Skip %@s" = "スキップ %@s";
+
+"No in app payment allowed" = "アプリ内でのお支払いは禁止されています。";
+"Resume purchase..." = "買い戻し...";
+"Payment in..." = "支払い中...";
+"Failed to get purchase information" = "購買情報の取得に失敗しました。";
+"This item has not been purchased" = "このプロジェクトを買ったことがありません。";
+"Can not pay" = "お支払いできません";
+"Request was aborted" = "要求に失敗しました";
+"Validating order..." = "注文を確認しています...";
+"An unknown error has occurred!" = "未知のエラーが発生しました";
+"Purchase failure" = "購入に失敗しました";
+"Cancel purchase" = "購入をキャンセルする";
+"Purchase succeeded" = "購入成功";
+"Exchange code verification in progress..." = "両替コードの検証中...";
+"Exchange succeeded" = "両替に成功しました";
+"The exchange code is wrong. Please re-enter it" = "両替コードが違います。もう一度入力してください。";

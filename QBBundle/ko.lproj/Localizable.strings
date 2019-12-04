@@ -25,3 +25,23 @@
 "Send failed" = "보내기 실패";
 "Microphone is not authorized, turn on microphone to authorize speech recognition" = "마이크 비허가 없이 마이크를 열어 음성 인식";
 "Settings" = "설정";
+
+
+"Skip 4s" = "건너뛰다 4s";
+"Skip %@s" = "건너뛰다 %@s";
+
+"No in app payment allowed" = "App 에서 비용을 지불하는 것을 허용하지 않습니다";
+"Resume purchase..." = "복구 구매...";
+"Payment in..." = "지불 중...";
+"Failed to get purchase information" = "구매 정보 가져오기 실패";
+"This item has not been purchased" = "이 프로젝트를 구입한 적이 없다";
+"Can not pay" = "지불 불능";
+"Request was aborted" = "요청 실패";
+"Validating order..." = "주문서 검증 중...";
+"An unknown error has occurred!" = "오류가 발생했습니다!";
+"Purchase failure" = "구매 실패";
+"Cancel purchase" = "구매 취소";
+"Purchase succeeded" = "구매 성공";
+"Exchange code verification in progress..." = "코드 검증 중...";
+"Exchange succeeded" = "태환 성공";
+"The exchange code is wrong. Please re-enter it" = "코드 가 맞지 않으니 다시 입력하십시오";
