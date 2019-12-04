@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  QBBundle
+
+  Created by quentin on 2019/3/18.
+  Copyright © 2019 Quentin. All rights reserved.
+*/
+
+"Update" = "업데이트";
+"App Update" = "업데이트";
+"Cancel" = "취소";
+"Friendly reminder" = "우정힌트";
+"You have not configured your email account yet, do you want to jump to the configuration now?" = "메일 계정을 설정하지 않았는데, 현재 설정을 바꾸시겠습니까?";
+"OK" = "확정";
+"Prompt" = "힌트";
+"To view" = "보기";
+"The mailbox is not configured, please go to set the email account!" = "메일박스 설정이 안 되어 메일박스 계정을 설치해 주세요!";
+"[Feedback]" = "[질문 피드백!]";
+"The following information is in order to better optimize the product" = "이하 정보가 더 나은 최적화 제품";
+"Model" = "형식";
+"System Version" = "시스템 버전";
+"Cancel sending mail" = "메일 발송 취소";
+"Save mail successfully" = "메일 저장 성공";
+"Successfully sent" = "성공";
+"Send failed" = "보내기 실패";
+"Microphone is not authorized, turn on microphone to authorize speech recognition" = "마이크 비허가 없이 마이크를 열어 음성 인식";
+"Settings" = "설정";

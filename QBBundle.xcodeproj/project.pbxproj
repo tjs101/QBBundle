@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		662D78CB223F6E2700247B5E /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 662D78CD223F6E2700247B5E /* Localizable.strings */; };
+		66C5768722F5667D006202D9 /* TraditionalCode.txt in Resources */ = {isa = PBXBuildFile; fileRef = 66C5768522F5667D006202D9 /* TraditionalCode.txt */; };
+		66C5768822F5667D006202D9 /* SimplifiedCode.txt in Resources */ = {isa = PBXBuildFile; fileRef = 66C5768622F5667D006202D9 /* SimplifiedCode.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -16,6 +18,9 @@
 		662D78CE223F6E4A00247B5E /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		662D78DD223FCFE300247B5E /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		662D78DE223FCFEB00247B5E /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
+		66C5768522F5667D006202D9 /* TraditionalCode.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = TraditionalCode.txt; sourceTree = "<group>"; };
+		66C5768622F5667D006202D9 /* SimplifiedCode.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SimplifiedCode.txt; sourceTree = "<group>"; };
+		66ED8A5022B37DFC00768562 /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +53,8 @@
 		662D78C0223F6B2400247B5E /* QBBundle */ = {
 			isa = PBXGroup;
 			children = (
+				66C5768622F5667D006202D9 /* SimplifiedCode.txt */,
+				66C5768522F5667D006202D9 /* TraditionalCode.txt */,
 				662D78CD223F6E2700247B5E /* Localizable.strings */,
 			);
 			path = QBBundle;
@@ -96,6 +103,7 @@
 				"zh-Hans",
 				"zh-Hant",
 				ja,
+				ko,
 			);
 			mainGroup = 662D78B5223F6B2400247B5E;
 			productRefGroup = 662D78BF223F6B2400247B5E /* Products */;
@@ -113,6 +121,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				662D78CB223F6E2700247B5E /* Localizable.strings in Resources */,
+				66C5768822F5667D006202D9 /* SimplifiedCode.txt in Resources */,
+				66C5768722F5667D006202D9 /* TraditionalCode.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,6 +146,7 @@
 				662D78CE223F6E4A00247B5E /* zh-Hans */,
 				662D78DD223FCFE300247B5E /* zh-Hant */,
 				662D78DE223FCFEB00247B5E /* ja */,
+				66ED8A5022B37DFC00768562 /* ko */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -262,7 +273,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = NO;
 				DEVELOPMENT_TEAM = WBXF8DBQ3M;
-				INFOPLIST_FILE = QBBundle/Info.plist;
+				INFOPLIST_FILE = "";
 				INSTALL_PATH = "";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kuntapp.quanneng.QBBundle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -278,7 +289,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = NO;
 				DEVELOPMENT_TEAM = WBXF8DBQ3M;
-				INFOPLIST_FILE = QBBundle/Info.plist;
+				INFOPLIST_FILE = "";
 				INSTALL_PATH = "";
 				PRODUCT_BUNDLE_IDENTIFIER = com.kuntapp.quanneng.QBBundle;
 				PRODUCT_NAME = "$(TARGET_NAME)";
