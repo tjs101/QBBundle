@@ -44,3 +44,11 @@
 "Exchange code verification in progress..." = "兑换码验证中...";
 "Exchange succeeded" = "兑换成功";
 "The exchange code is wrong. Please re-enter it" = "兑换码不对，请重新输入";
+"Refresh receipt..." = "刷新凭证...";
+
+
+"Submit" = "提交";
+"Exchange code" = "请输入兑换码";
+"The exchange code cannot be empty" = "兑换码不能为空";
+"Enter the exchange code here" = "在此输入兑换码";
+"Enter the exchange code to redeem VIP members" = "输入兑换码，可兑换VIP会员";

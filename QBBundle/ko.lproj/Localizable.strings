@@ -45,3 +45,12 @@
 "Exchange code verification in progress..." = "코드 검증 중...";
 "Exchange succeeded" = "태환 성공";
 "The exchange code is wrong. Please re-enter it" = "코드 가 맞지 않으니 다시 입력하십시오";
+"zh_int" = "ko_int";
+"Refresh receipt..." = "영수증 을 갱신 하 다...";
+
+
+"Submit" = "제출";
+"Exchange code" = "태환 부호";
+"The exchange code cannot be empty" = "교환 코드 가 비어 있 으 면 안 됩 니 다";
+"Enter the exchange code here" = "여기 서 교환 코드 입력";
+"Enter the exchange code to redeem VIP members" = "교환 코드 를 입력 하면 VIP 회원 으로 바 꿀 수 있 습 니 다";

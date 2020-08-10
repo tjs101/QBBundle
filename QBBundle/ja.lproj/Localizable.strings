@@ -45,3 +45,12 @@
 "Exchange code verification in progress..." = "両替コードの検証中...";
 "Exchange succeeded" = "両替に成功しました";
 "The exchange code is wrong. Please re-enter it" = "両替コードが違います。もう一度入力してください。";
+"zh_int" = "jp_int";
+"Refresh receipt..." = "リフレッシュ受付...";
+
+
+"Submit" = "提交";
+"Exchange code" = "引き換えコード";
+"The exchange code cannot be empty" = "両替コードは空ではない";
+"Enter the exchange code here" = "ここで両替コードを入力します。";
+"Enter the exchange code to redeem VIP members" = "入力両替コードは、VIP会員に両替できます。";

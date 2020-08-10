@@ -45,3 +45,12 @@
 "Exchange code verification in progress..." = "兌換碼驗證中...";
 "Exchange succeeded" = "兌換成功";
 "The exchange code is wrong. Please re-enter it" = "兌換碼不對，請重新輸入";
+"zh_int" = "zh_cht_int";
+"Refresh receipt..." = "重繪憑證...";
+
+
+"Submit" = "提交";
+"Exchange code" = "請輸入兌換碼";
+"The exchange code cannot be empty" = "兌換碼不能為空";
+"Enter the exchange code here" = "在此輸入兌換碼";
+"Enter the exchange code to redeem VIP members" = "輸入兌換碼，可兌換VIP會員";
